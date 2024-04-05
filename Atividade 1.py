@@ -16,6 +16,6 @@ for contador in numeros:
         print(f"{contador} é ímpar")
     else:
         print(f"{contador} é par")
-    contador += 1
+    contador += 1   
 
 
