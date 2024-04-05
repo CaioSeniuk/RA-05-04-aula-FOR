@@ -1,0 +1,10 @@
+menos liberdade no for
+mais versatil
+intervalo fixo
+criar lista e nao sabe o tamanho = usar while para ir criando
+while (inifnito ou validação) - quando quer fazer validação, repetir pergunta enquanto digita resposta errada
+for - declarar contador no for, sem precisar criar dentro do for
+for it - para cada elemento
+
+
+
